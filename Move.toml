@@ -1,0 +1,15 @@
+[package]
+name = "IdentityRegistry"
+version = "1.0.0"
+authors = []
+
+[addresses]
+my_address = "0x037780f3675c19ed3229b42ed6f7511d74d754e6c63373591dd17d61a7fc4e38"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
