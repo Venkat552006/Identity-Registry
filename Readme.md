@@ -60,4 +60,4 @@ The Identity Registry serves as a foundation for building trust in decentralized
 
 0xe93ac7389ceb6dd5fe964549701cfb9fe2781d2e75622d96821c5e037c1ca5d7
 
-![alt text](image-1.png)
+
